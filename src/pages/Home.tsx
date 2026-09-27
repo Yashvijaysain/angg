@@ -293,7 +293,7 @@ export default function Home() {
       </section>
 
       {/* Final CTA */}
-      <section className="bg-[#f2efe9] text-neutral-900 py-24 text-center overflow-hidden">
+      <section className="bg-accent text-neutral-900 py-24 text-center overflow-hidden">
         <div className="max-w-[800px] mx-auto px-6">
           <FadeIn>
             <h2 className="text-4xl md:text-6xl font-display mb-6 text-neutral-900">Ready to Secure Your Next Prime Asset?</h2>
