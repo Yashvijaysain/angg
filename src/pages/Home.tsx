@@ -293,12 +293,12 @@ export default function Home() {
       </section>
 
       {/* Final CTA */}
-      <section className="bg-accent text-bg py-24 text-center overflow-hidden">
+      <section className="bg-accent text-neutral-900 py-24 text-center overflow-hidden">
         <div className="max-w-[800px] mx-auto px-6">
           <FadeIn>
-            <h2 className="text-4xl md:text-6xl font-display mb-6 text-black">Ready to Secure Your Next Prime Asset?</h2>
-            <p className="text-black/80 text-lg mb-10">Connect with our expert advisors today to explore exclusive opportunities in the residential and commercial sectors.</p>
-            <Link to="/contact" className="inline-block bg-black text-white hover:scale-105 border border-transparent rounded-full px-10 py-4 text-sm font-medium transition-all shadow-xl shadow-black/20">
+            <h2 className="text-4xl md:text-6xl font-display mb-6 text-neutral-900">Ready to Secure Your Next Prime Asset?</h2>
+            <p className="text-neutral-700 text-lg mb-10">Connect with our expert advisors today to explore exclusive opportunities in the residential and commercial sectors.</p>
+            <Link to="/contact" className="inline-block bg-neutral-900 text-white hover:bg-neutral-800 hover:scale-105 border border-transparent rounded-full px-10 py-4 text-sm font-medium transition-all shadow-xl shadow-black/20">
               Request a Consultation
             </Link>
           </FadeIn>
